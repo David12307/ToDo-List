@@ -1,0 +1,54 @@
+body {
+	background-color: #99ccff;
+	font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+	text-align: center;
+  	position: relative;
+  	top: 50%;
+  	color: white;
+  	font-size: 68px;
+}
+
+#itemToAdd {
+	border: 0px;
+	outline: none;
+	font-size: 20px;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+#submit {
+	margin-left: 10px;
+	border: 0px;
+	outline: none;
+	cursor: pointer;
+	background-color: white;
+	font-size: 20px;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+#inputs {
+	margin-left: 800px;
+}
+
+#toDos {
+	padding-top: 5px;
+	background-color: white;
+	width: 400px;
+	border-radius: 5px;
+	margin-top: 50px;
+	margin-left: 750px;
+}
+
+#toDos p {
+	cursor: pointer;
+	color: black;
+	font-size: 15px;
+	font-family: 'Poppins', sans-serif;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px gray solid;
+}
